@@ -7,7 +7,7 @@
     <parent>
         <groupId>xxxxxx.yyyyyy.zzzzzz</groupId>
         <artifactId>projectName</artifactId>
-        <version>1.6.0.RELEASE</version>
+        <version>1.6.1.RELEASE</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -104,7 +104,7 @@
         </dependency>
         <dependency>
             <groupId>org.thymeleaf.extras</groupId>
-            <artifactId>thymeleaf-extras-springsecurity4</artifactId>
+            <artifactId>thymeleaf-extras-springsecurity5</artifactId>
         </dependency>
         <dependency>
             <groupId>org.thymeleaf.extras</groupId>
@@ -128,7 +128,7 @@
 <!--         </dependency> -->
 <!--         <dependency> -->
 <!--             <groupId>com.oracle.jdbc</groupId> -->
-<!--             <artifactId>ojdbc7</artifactId> -->
+<!--             <artifactId>ojdbc8</artifactId> -->
 <!--             <scope>runtime</scope> -->
 <!--         </dependency> -->
         <!-- == End Database == -->
